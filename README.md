@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Chrislee2875?style=flat-square&label=GITHUB%20FOLLOWERS&color=005b96" alt="GitHub followers" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Chrislee2875&label=Views&color=4c1&style=flat-square" alt="Profile views" />
 </p>
 
 <details open>
