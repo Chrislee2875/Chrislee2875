@@ -22,16 +22,17 @@
 👉 **Bubble Hub** | Java Web - Backend Developer | 2/2026 - 3/2026
 - A platform to manage bubble tea shop operations and orders, supporting VNPay payment.
 - Using Java, MVC2, MSSQL, VNPay API, Copilot CLI, MantisBT.
-- Link to GitHub:  [Bubble Hub](https://github.com/Chrislee2875/BubbleHubWeb)
+- Link to GitHub: 🗂️ [Bubble Hub](https://github.com/Chrislee2875/BubbleHubWeb)
 
 👉 **Contact Manager** | C# Desktop Application - Integration & QA Developer
 - A desktop application to manage personal contacts with CRUD and real-time search.
 - Using C#, WPF, MVVM, Entity Framework Core, SQL Server.
-- Link to GitHub:  [Contact Manager](https://github.com/Chrislee2875/ContactManager)
+- Link to GitHub: 🗂️ [Contact Manager](https://github.com/Chrislee2875/ContactManager)
 
 👉 **Beloved - Trao đi là còn mãi** | Volunteer Project - Founder & Team Leader | 5/2024 - 7/2024
 - Founded and managed a volunteer group supporting the homeless in the city.
-- Organized charity events, managed fanpage, and ensured financial transparency.
+- Built and operated the project's fanpage: 🌐 [Beloved - Trao đi là còn mãi](https://www.facebook.com/beloved22524/)
+- Organized charity events and ensured financial transparency.
 
 <br>
 
