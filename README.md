@@ -24,7 +24,7 @@
 - Using Java, MVC2, MSSQL, VNPay API, Copilot CLI, MantisBT.
 - Link to GitHub: 🗂️ [Bubble Hub](https://github.com/Chrislee2875/BubbleHubWeb)
 
-👉 **Contact Manager** | C# Desktop Application - Integration & QA Developer
+👉 **Contact Manager** | C# Desktop Application - Integration & QA Developer | 2/2026 - 3/2026
 - A desktop application to manage personal contacts with CRUD and real-time search.
 - Using C#, WPF, MVVM, Entity Framework Core, SQL Server.
 - Link to GitHub: 🗂️ [Contact Manager](https://github.com/Chrislee2875/ContactManager)
