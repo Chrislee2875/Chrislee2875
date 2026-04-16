@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hữu Trí</h1>
 
-<!--
-**Chrislee2875/Chrislee2875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend Developer | .NET & Java
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Student at FPT University (Software Engineering)  
+- 💻 Interested in Backend Development & System Design  
+- 🚀 Currently learning: .NET, Database Optimization  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** C/C++, Java, C#  
+- **Frameworks:** WPF, MVVM, Entity Framework Core  
+- **Databases:** SQL Server, MySQL, MongoDB  
+- **Tools:** Git, GitHub, MantisBT  
+
+---
+
+## 📌 Projects
+### 🔹 Contact Manager (WPF - MVVM)
+- CRUD, Search, Validation  
+- DataGrid + Data Binding  
+- Role: Integration & QA Developer  
+
+### 🔹 Bubble Hub
+- Java MVC + MSSQL  
+- Role: Backend & Database Developer  
+
+---
+
+## 📫 Contact
+- 📧 Email: trile2005@gmail.com  
+- 🔗 GitHub: https://github.com/Chrislee2875  
+
+---
+
+⭐ *Always learning and improving...*
